@@ -1,0 +1,6 @@
+.env
+.gemini/.env
+target/
+*.key
+*.pem
+private-notes.md
